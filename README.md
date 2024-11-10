@@ -1,4 +1,4 @@
-No biscoito da sorte - ou da sabedoria - a gente avança um pouco mais no JavaScript e traz agora frases randômicas exibidas ao se clicar no biscoito ou ao se pressionar o Enter do teclado (o que tambem acontecia no Jogo da Advinhação). Alem da animação aplicada ao biscoito, se voce observar bem verá um background discretamente dinâmico! Como é de lei, a aplicação funciona em desktop e mobile.
+In the fortune cookie - or wisdom cookie - we advance a little further in JavaScript and now have random phrases displayed when clicking on the cookie or pressing Enter on the keyboard (which also happened in the Guessing Game). In addition to the animation applied to the cookie, if you look closely you will see a discreetly dynamic background! As is the law, the application works on desktop and mobile.
 
 ![image](https://github.com/user-attachments/assets/1e21e7b0-973f-4925-b59f-606d0090194a)
 ![image](https://github.com/user-attachments/assets/575698a1-2f0f-4ba4-8717-c1ac20cabd21)
